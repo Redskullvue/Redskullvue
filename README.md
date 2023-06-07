@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm a junior front-end developer currently focusing on contributing to open-source project 
-my stack is : == HTML , CSS , JS , Vue js , TailwindCSS , jQuery , .. ==
+my stack is : ==HTML , CSS , JS , Vue js , TailwindCSS , jQuery , ..==
