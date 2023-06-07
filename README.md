@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey Guys
 
 <!--
 **Redskullvue/Redskullvue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a junior front-end developer currently focusing on contributing to open-source project 
+my stack is : == HTML , CSS , JS , Vue js , TailwindCSS , jQuery , .. ==
