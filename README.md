@@ -1,18 +1,19 @@
-### Hey Guys
+# 👋 Hi, I’m Pooya Goodarzi AKA RedskullVue
 
-<!--
-**Redskullvue/Redskullvue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🧩 Frontend Developer — Vue 3, TailwindCSS, Pinia, HTML , CSS , NodeJS , Express  
+- 🌍 Love Working for open-source projects , Also Design and developing Dashboards , Websites and more ... 
+- 📫 Find me on [LinkedIn](www.linkedin.com/in/pooya-goodarzi-363562226) / [https://webterminal.netlify.app/]
+---
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm a junior front-end developer currently focusing on contributing to open-source project 
-my stack is : HTML , CSS , JS , Vue js , TailwindCSS , jQuery , ..
+Vue | TailwindCSS | Pinia | CSS Animations | JS | three.js | HTML | CSS | Nuxt | Also love to explore more
+---
+
+## 🏆 GitHub Stats
+![Redskullvue's GitHub stats](https://github-readme-stats.vercel.app/api?username=Redskullvue&show_icons=true&theme=radical)
+---
+
+## 📫 Get in Touch
+
+[LinkedIn](www.linkedin.com/in/pooya-goodarzi-363562226)  | [https://webterminal.netlify.app/] | [Mail](pooyaworkjs@gmail.com)
