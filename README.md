@@ -13,6 +13,7 @@ Vue | TailwindCSS | Pinia | CSS Animations | JS | three.js | HTML | CSS | Nuxt |
 
 ## 🏆 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Redskullvue&layout=compact&theme=radical)
+![Redskullvue's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Redskullvue&theme=react-dark)
 
 ---
 
