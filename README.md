@@ -16,4 +16,4 @@ Vue | TailwindCSS | Pinia | CSS Animations | JS | three.js | HTML | CSS | Nuxt |
 
 ## 📫 Get in Touch
 
-[LinkedIn](www.linkedin.com/in/pooya-goodarzi-363562226)  | [https://webterminal.netlify.app/] | [Mail](pooyaworkjs@gmail.com)
+[LinkedIn](www.linkedin.com/in/pooya-goodarzi-363562226)  | [Website](https://webterminal.netlify.app/) | [Mail](pooyaworkjs@gmail.com)
