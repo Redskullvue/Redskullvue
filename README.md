@@ -3,6 +3,8 @@
 - 🧩 Frontend Developer — Vue 3, TailwindCSS, Pinia, HTML , CSS , NodeJS , Express  
 - 🌍 Love Working for open-source projects , Also Design and developing Dashboards , Websites and more ... 
 - 📫 Find me on [LinkedIn](www.linkedin.com/in/pooya-goodarzi-363562226) / [https://webterminal.netlify.app/]
+- ☕ Support Me : Your help will make me reach my goal as a developer which is a fulltime open-source developer !
+- 💰 Donate via crypto : USDT (TRC20): `TShjfp4sJxeKWWCkZq8NpuTnEmBZKQXAE6`
 ---
 
 ## 🔧 Tech Stack & Tools
