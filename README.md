@@ -9,7 +9,7 @@
 
 ## 🔧 Tech Stack & Tools
 
-Vue | TailwindCSS | Pinia | CSS Animations | JS | three.js | HTML | CSS | Nuxt | Also love to explore more
+![My Tech Stack](https://skillicons.dev/icons?i=vue,nuxt,tailwindcss,html,css,javascript,pinia,postman,git,vite,github,vscode,)
 
 ---
 
