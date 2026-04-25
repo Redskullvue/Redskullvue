@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Pooya Goodarzi AKA RedskullVue
+# 👋 Hi, I’m Pooya Goodarzi
 
 - 🧩 Frontend Developer — Vue 3, TailwindCSS, Pinia, HTML , CSS , NodeJS , Express  
 - 🌍 Love Working for open-source projects , Also Design and developing Dashboards , Websites and more , Create and build tools so maybe people won't have to code from scrath :)
